@@ -10,7 +10,7 @@
     ],
     "appRepositories": [
       {
-        "appCategories" : "#Other",
+        "appCateIndex" : "#Other",
         "appDescription" : "Редактор фото и видео с большим количеством функций.",
         "appName" : "InShot Pro",
         "appVersion" : "1.67.1",
