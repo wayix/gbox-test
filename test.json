@@ -11,7 +11,6 @@
     "appRepositories": [
       {
         "appName" : "InShot Pro 31",
-        "appName": "test",
         "appDescription" : "Test 12345",
         "appVersion" : "1.67.1",
         "appImage" : "https://ipa-dark.ru/vipad/ico/inshot.png",
