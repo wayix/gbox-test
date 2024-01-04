@@ -10,7 +10,7 @@
     ],
     "appRepositories": [
       {
-        "test": "test",
+        "appKey": "test",
         "appName" : "InShot Pro",
         "appDescription" : "Test 12345",
         "appVersion" : "1.67.1",
