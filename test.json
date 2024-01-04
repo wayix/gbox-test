@@ -1,7 +1,7 @@
 {
     "version" : "1.1.2",
     "sourceName" : "ipa test",
-    "sourceDescription": "🔍 Введите хэштег в поиск для поиска категории123:\n📱 #Other - Другое",    "sourceImage" : "https:\/\/ipalibraryrepo.ru\/icons\/icon.png",
+    "sourceDescription": "🔍 Введите хэштег в поиск для поиска категории:\n📱 #Other - Другое",    "sourceImage" : "https:\/\/ipalibraryrepo.ru\/icons\/icon.png",
     "sourceAuthor" : "ipa_test",
     "sourceLinkUrl": "https://t.me/ipa_test",
     "sourceLinkTitle" : "@ipa_test",
@@ -10,7 +10,8 @@
     ],
     "appRepositories": [
       {
-        "appName" : "InShot Pro 31",
+        "appName" : "InShot Pro",
+        "appNames": ["InShot Pro", "test"],
         "appDescription" : "Test 12345",
         "appVersion" : "1.67.1",
         "appImage" : "https://ipa-dark.ru/vipad/ico/inshot.png",
