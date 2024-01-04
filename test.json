@@ -11,13 +11,14 @@
     "appRepositories": [
       {
         "appName" : "InShot Pro",
+        "appName": "test",
         "appDescription" : "Test 12345",
         "appVersion" : "1.67.1",
         "appImage" : "https://ipa-dark.ru/vipad/ico/inshot.png",
         "appUpdateTime" : "2024-01-04T09:30:00+0300",
         "appType" : "SELF_SIGN",
-        "AppSubtitle": "test",
-        "AppTitle": "test",
+        "appSubtitle": "test",
+        "appTitle": "test",
         "appPackage" : "https://ipa-dark.ru/vipad/ipa/InShot_Pro/InShot_Pro%201.67.1%20%28%40ipa_dark%29.ipa"
       }
   ]
