@@ -6,12 +6,12 @@
     "sourceLinkUrl": "https://t.me/ipa_test",
     "sourceLinkTitle" : "@ipa_test",
     "appCategories":[
-        ["\"Скачать\" -> \"Установить\" -> \"Подписать\" -> \"Установить\""]
+      "\"Скачать\" -> \"Установить\" -> \"Подписать\" -> \"Установить\""
     ],
     "appRepositories": [
       {
-        "appCate" : "#Other",
-        "appDescription" : "123",
+        "appCateIndex" : "#Other",
+        "appDescription" : "Test 12345",
         "appName" : "InShot Pro",
         "appVersion" : "1.67.1",
         "appImage" : "https://ipa-dark.ru/vipad/ico/inshot.png",
